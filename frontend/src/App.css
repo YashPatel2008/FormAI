@@ -1,0 +1,13 @@
+.video-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .video-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+  } 
